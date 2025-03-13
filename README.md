@@ -43,7 +43,6 @@ uvicorn app:app --reload
 ```
 
 5. Open the frontend:
-- Navigate to the `static` directory
 - Open `index.html` in your web browser
 - Or serve it using a local server
 
